@@ -152,5 +152,5 @@ Requests use `fetch` with `async/await`, `response.ok` checks and `try/catch/fin
 
 | Member | Contribution |
 |---|---|
-| Tolegen Zhassulan | _e.g. HTML/CSS, pages, Bootstrap, README_ |
-| Bazaraly Ramazan | _e.g. JavaScript, jQuery, OOP, API, deployment_ |
+| Tolegen Zhassulan | HTML/CSS, pages, Bootstrap, README |
+| Bazaraly Ramazan | JavaScript, jQuery, OOP, API, deployment |
