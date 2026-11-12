@@ -8,7 +8,7 @@
 
 ## Links
 
-- **Live site:** _add your GitHub Pages / Netlify link here_
+- **Live site:** https://zhhass.github.io/midterm-project/
 - **GitHub repository:** _https://github.com/zhhass/midterm-project.git_
 
 ## Topic
