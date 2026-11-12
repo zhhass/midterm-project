@@ -152,5 +152,5 @@ _Edit this table before submitting._
 
 | Member | Contribution |
 |---|---|
-| Bazaraly Ramazan | _e.g. HTML/CSS, pages, Bootstrap, README_ |
-| Tolegen Zhassulan | _e.g. JavaScript, jQuery, OOP, API, deployment_ |
+| Tolegen Zhassulan | _e.g. HTML/CSS, pages, Bootstrap, README_ |
+| Bazaraly Ramazan | _e.g. JavaScript, jQuery, OOP, API, deployment_ |
