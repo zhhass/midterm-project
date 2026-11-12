@@ -148,7 +148,7 @@ Requests use `fetch` with `async/await`, `response.ok` checks and `try/catch/fin
 5. Open **Home**: the weather card loads from the API.
 
 ## Group contribution
-_Edit this table before submitting._
+
 
 | Member | Contribution |
 |---|---|
